@@ -8,13 +8,14 @@ public class TeleportToNextRoom : MonoBehaviour
     
     [SerializeField]
     string strTag;
-    public Transform TowerInsideBottom;
+    public Transform Teleporter;
+    public Transform Player;
   
 
 	private void OnCollisionEnter(Collision collision)
     {
         if (collision.collider.tag == strTag)
-            transform.position = TowerInsideBottom.transform.position;
+            Player.transform.position = Teleporter.transform.position;
             Debug.Log ("TELEPORTED");    
     }
 
