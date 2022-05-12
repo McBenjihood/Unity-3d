@@ -1,0 +1,593 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Enterprise' Language: 'de' Physical Memory: 8083 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/s_30521/OneDrive - Stadt Luzern Volksschule/Dokumente/Clone Git/Unity-3d/Test's
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53234
+Successfully changed project path to: C:/Users/s_30521/OneDrive - Stadt Luzern Volksschule/Dokumente/Clone Git/Unity-3d/Test's
+C:/Users/s_30521/OneDrive - Stadt Luzern Volksschule/Dokumente/Clone Git/Unity-3d/Test's
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 219.02 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/s_30521/OneDrive - Stadt Luzern Volksschule/Dokumente/Clone Git/Unity-3d/Test's/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     4041 MB
+    Driver:   27.20.100.9416
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003641 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 168.91 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.420 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1421ms)
+		BeginReloadAssembly (175ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1044ms)
+			LoadAssemblies (169ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (310ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (441ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (169ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (170ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.034874 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 162.57 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  3.426 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3429ms)
+		BeginReloadAssembly (357ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (2956ms)
+			LoadAssemblies (268ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (769ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (142ms)
+			SetupLoadedEditorAssemblies (1470ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (163ms)
+				BeforeProcessingInitializeOnLoad (383ms)
+				ProcessInitializeOnLoadAttributes (849ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 1.46 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3582 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.4 MB.
+System memory in use after: 147.6 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 4077.
+Total: 4.847300 ms (FindLiveObjects: 0.346800 ms CreateObjectMapping: 0.267200 ms MarkObjects: 4.063800 ms  DeleteObjects: 0.168000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Level2Texture/Yellow.mat
+  artifactKey: Guid(38c30f4b1da0db4479efaff95de62907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Yellow.mat using Guid(38c30f4b1da0db4479efaff95de62907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a547ab650455907c2cf5888091408af7') in 0.247275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 434.832121 seconds.
+  path: Assets/Materials/Level2Texture/Green.mat
+  artifactKey: Guid(1697498525966164c9cdc4f16e35a102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Green.mat using Guid(1697498525966164c9cdc4f16e35a102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec4947e2cfe243c2fdb75936f6bc5e2') in 0.049538 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026039 seconds.
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  2.459 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2460ms)
+		BeginReloadAssembly (295ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (2028ms)
+			LoadAssemblies (301ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (735ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (141ms)
+			SetupLoadedEditorAssemblies (642ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (193ms)
+				ProcessInitializeOnLoadAttributes (403ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.9 MB.
+System memory in use after: 143.1 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4120.
+Total: 5.718800 ms (FindLiveObjects: 0.509100 ms CreateObjectMapping: 0.306000 ms MarkObjects: 4.755900 ms  DeleteObjects: 0.146100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.034544 seconds.
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.80 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  3.973 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3974ms)
+		BeginReloadAssembly (477ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (3137ms)
+			LoadAssemblies (641ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (1727ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (140ms)
+			SetupLoadedEditorAssemblies (581ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (188ms)
+				ProcessInitializeOnLoadAttributes (355ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.58 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.0 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4123.
+Total: 5.836800 ms (FindLiveObjects: 0.381000 ms CreateObjectMapping: 0.360100 ms MarkObjects: 4.954000 ms  DeleteObjects: 0.140100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026798 seconds.
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  3.441 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3443ms)
+		BeginReloadAssembly (629ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (179ms)
+		EndReloadAssembly (2551ms)
+			LoadAssemblies (592ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1167ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (126ms)
+			SetupLoadedEditorAssemblies (630ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (237ms)
+				ProcessInitializeOnLoadAttributes (354ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.0 MB.
+System memory in use after: 143.2 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4126.
+Total: 5.654000 ms (FindLiveObjects: 0.517400 ms CreateObjectMapping: 0.457100 ms MarkObjects: 4.547300 ms  DeleteObjects: 0.130500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 926.420782 seconds.
+  path: Assets/Materials/Level2Texture/Green.mat
+  artifactKey: Guid(1697498525966164c9cdc4f16e35a102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Green.mat using Guid(1697498525966164c9cdc4f16e35a102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838ad963f912fabbb57d904a09fe0fa5') in 0.106399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Materials/Level2Texture/Yellow.mat
+  artifactKey: Guid(38c30f4b1da0db4479efaff95de62907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Yellow.mat using Guid(38c30f4b1da0db4479efaff95de62907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53eaa7dce581c998c8f8cceaacca018c') in 0.063086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.843734 seconds.
+  path: Assets/Materials/Level2Texture/Lava.mat
+  artifactKey: Guid(c1af0c8a070ec734b9ef55b5ea52b0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Lava.mat using Guid(c1af0c8a070ec734b9ef55b5ea52b0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36475674c5cd4daf25b1474369e49d8') in 0.040782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.874425 seconds.
+  path: Assets/Materials/Level2Texture/Image Preview.avif
+  artifactKey: Guid(a8200cbbe80b5f443a9418a84a141bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Image Preview.avif using Guid(a8200cbbe80b5f443a9418a84a141bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6c40c96ec44da1225d6d1379296713') in 0.066792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.416630 seconds.
+  path: Assets/Materials/Level2Texture/Lava.jpg
+  artifactKey: Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Lava.jpg using Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d80d5d37fa40f71cbb0416183a151e') in 0.052896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.288518 seconds.
+  path: Assets/Materials/Level2Texture/Lava.jpg
+  artifactKey: Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Lava.jpg using Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4685b8e999525e217305856891045a5d') in 0.063498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.407814 seconds.
+  path: Assets/Materials/Level2Texture/Lava.jpg
+  artifactKey: Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Level2Texture/Lava.jpg using Guid(79db68f1c758e8d45a1a145736399309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5edfdeac1b414de3ecd5e3e3877c052') in 0.041469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.323692 seconds.
+  path: Assets/Scripts/LevelSwitcher.cs
+  artifactKey: Guid(4cbf65a25b46a194e8eb3e589b7efac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelSwitcher.cs using Guid(4cbf65a25b46a194e8eb3e589b7efac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e7c6300c0365dd38b378218ef15fbb') in 0.042061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.418722 seconds.
+  path: Assets/Scripts/MoveCamera.cs
+  artifactKey: Guid(cee1cd333419de64fac127ad43451bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoveCamera.cs using Guid(cee1cd333419de64fac127ad43451bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f45eeddc6d9686bbb0e577134a7ee0') in 0.022434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.576185 seconds.
+  path: Assets/Scripts/PauseMenu.cs
+  artifactKey: Guid(5aecb53f9f6f42446ae0eeca39cb0a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PauseMenu.cs using Guid(5aecb53f9f6f42446ae0eeca39cb0a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3f5f4a6f1bd6d53416ecf20db8643b') in 0.018674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.761361 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(31d2f83d4b4ffe649a575a2a2d2bcaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(31d2f83d4b4ffe649a575a2a2d2bcaa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c022e962d6d8aa070ab27513366da526') in 0.016171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.822149 seconds.
+  path: Assets/Scripts/RespawnOnCheckpoint.cs
+  artifactKey: Guid(e427d97fcfd856a47b87aa7ebdd71261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RespawnOnCheckpoint.cs using Guid(e427d97fcfd856a47b87aa7ebdd71261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79edaac46e831513aa1d487c06484fee') in 0.021399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.936875 seconds.
+  path: Assets/Scripts/RestartLevelWithButton.cs
+  artifactKey: Guid(45de1f8b494fb51478bfb793b90238a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RestartLevelWithButton.cs using Guid(45de1f8b494fb51478bfb793b90238a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bee689c9cc0484a62525cf960817eda') in 0.020464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.673453 seconds.
+  path: Assets/Scripts/RestartLeveWithCollision.cs
+  artifactKey: Guid(72ce366040a530a47905dcd73fe547b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RestartLeveWithCollision.cs using Guid(72ce366040a530a47905dcd73fe547b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25fe183c218f0c6f47e587cdc3d3e50') in 0.019455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 101.419587 seconds.
+  path: Assets/Scripts/PlayerMovement2.cs
+  artifactKey: Guid(900db0181bee5e749a2bc9571a7f9cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement2.cs using Guid(900db0181bee5e749a2bc9571a7f9cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733c2bbcfcc6339d5fb87e4d1e2c69e6') in 0.009947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.234190 seconds.
+  path: Assets/Scripts/RespawnOnCheckpoint1.cs
+  artifactKey: Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RespawnOnCheckpoint1.cs using Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea7541745b39b47031c3e9e58124465') in 0.031972 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.046107 seconds.
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  2.981 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2982ms)
+		BeginReloadAssembly (252ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (2577ms)
+			LoadAssemblies (253ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1044ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (246ms)
+			SetupLoadedEditorAssemblies (750ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (238ms)
+				ProcessInitializeOnLoadAttributes (462ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.38 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.1 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4133.
+Total: 6.721800 ms (FindLiveObjects: 0.403700 ms CreateObjectMapping: 0.335800 ms MarkObjects: 5.801500 ms  DeleteObjects: 0.178900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 51.944224 seconds.
+  path: Assets/Scripts/RespawnOnCheckpoint1.cs
+  artifactKey: Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RespawnOnCheckpoint1.cs using Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367f1ff8addc5b2dea02c68cdededf98') in 0.011627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.515645 seconds.
+  path: Assets/Scripts/RespawnonCheckpointOnCollision.cs
+  artifactKey: Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RespawnonCheckpointOnCollision.cs using Guid(9144dac82c482de49830d677413e56e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c87f3e2d2bf864706452c0a49fed67') in 0.027293 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030790 seconds.
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Symbol file LoadedFromMemory doesn't match image C:\Users\s_30521\OneDrive - Stadt Luzern Volksschule\Dokumente\Clone Git\Unity-3d\Test's\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.28 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl.dll
+Fallback handler could not load library C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Mono/lib/libdl
+- Completed reload, in  2.637 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2638ms)
+		BeginReloadAssembly (266ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (2242ms)
+			LoadAssemblies (245ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (887ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (150ms)
+			SetupLoadedEditorAssemblies (687ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (226ms)
+				ProcessInitializeOnLoadAttributes (417ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.56 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.1 MB.
+System memory in use after: 143.3 MB.
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 4136.
+Total: 5.536900 ms (FindLiveObjects: 0.424200 ms CreateObjectMapping: 0.311500 ms MarkObjects: 4.653300 ms  DeleteObjects: 0.146400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 103.633693 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8d94c5bf4178c12fca257da5772df8') in 0.045453 seconds 

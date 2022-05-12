@@ -9,6 +9,7 @@ TagManager:
   - Checkpoint
   - Teleport
   - Grappleable
+  - RespawnOnCollision
   layers:
   - Default
   - TransparentFX
