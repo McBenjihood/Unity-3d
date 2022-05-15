@@ -12,6 +12,7 @@ public class LevelSwitcher1 : MonoBehaviour
 	private void OnCollisionEnter(Collision collision)
     {
         if (collision.collider.tag == strTag)
+            Cursor.lockState = CursorLockMode.None;
             SceneManager.LoadScene("MainMenu");
     }
 }
