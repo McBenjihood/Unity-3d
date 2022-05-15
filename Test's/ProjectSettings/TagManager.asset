@@ -10,6 +10,7 @@ TagManager:
   - Teleport
   - Grappleable
   - RespawnOnCollision
+  - Teleport2
   layers:
   - Default
   - TransparentFX
