@@ -13,6 +13,8 @@ public class LevelSwitcher1 : MonoBehaviour
     {
         if (collision.collider.tag == strTag)
             Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
             SceneManager.LoadScene("MainMenu");
+            
     }
 }
