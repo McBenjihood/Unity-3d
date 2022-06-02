@@ -11,12 +11,18 @@ public class StartMenu : MonoBehaviour
         Application.Quit();
     }
 
-    public void StartGame()
+    public void StartTurtorial()
     {
         Debug.Log("Starting Game ...");
         SceneManager.LoadScene("Level 3");
         PauseMenu.GameIsPaused = false;
+    }
 
+    public void StartGame()
+    {
+        Debug.Log("Starting Game ...");
+        SceneManager.LoadScene("Level 4");
+        PauseMenu.GameIsPaused = false;
     }
 
 }
